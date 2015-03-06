@@ -5,3 +5,5 @@ hoge:
   - key2:
     - value3
     - value4
+  - key3:
+    - value5
